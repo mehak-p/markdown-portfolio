@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**HI!!** *I've just started out to learn github and its interesting. I make mistakes sometimes, but its __OK.__*
